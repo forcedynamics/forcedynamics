@@ -4,11 +4,11 @@
 
 ---
 
-## Our Mission
+### Our Mission
 
 We are a full-stack AI company focused on streamlining operations for government agencies. Our goal is to support existing expertise within federal agencies while reducing administrative burden and improving cost-effectiveness for American taxpayers.
 
-## Understanding the Challenge
+### Understanding the Challenge
 
 Federal procurement involves complex processes that require significant administrative resources. Agencies handle millions of contract actions annually, with manual review and processing often requiring substantial time and personnel allocation.
 
@@ -18,7 +18,7 @@ Federal procurement involves complex processes that require significant administ
 - Administrative costs represent a significant portion of total procurement expenses
 - Documentation requirements continue to grow in complexity
 
-## Our Approach
+### Our Approach
 
 We develop AI-assisted tools designed to work within existing procurement frameworks and support current processes rather than replace them.
 
@@ -30,13 +30,13 @@ We develop AI-assisted tools designed to work within existing procurement framew
 
 **Data Insights** - Analytics tools that provide procurement teams with better visibility into processing timelines and workflow efficiency
 
-## Why This Work Matters
+### Why This Work Matters
 
 Efficient procurement processes allow agencies to focus resources on mission-critical activities while ensuring responsible stewardship of taxpayer funds. By reducing time spent on routine administrative tasks, procurement professionals can dedicate more attention to strategic sourcing, vendor relationship management, and complex negotiations.
 
 Our pilot implementations have shown promising results in reducing processing time for standard contract elements while maintaining full compliance with federal procurement regulations.
 
-## Our Methodology
+### Our Methodology
 
 **Security and Compliance First** - All systems are designed to meet federal security requirements and maintain strict data protection standards. We work closely with agency IT and security teams throughout implementation.
 
@@ -46,7 +46,7 @@ Our pilot implementations have shown promising results in reducing processing ti
 
 **Measurable Outcomes** - We focus on demonstrable improvements in processing efficiency while maintaining quality and compliance standards.
 
-## What Sets Us Apart
+### What Sets Us Apart
 
 **Government Sector Experience** - Our team includes former federal procurement professionals and policy specialists who understand the regulatory environment and operational requirements of government contracting.
 
@@ -56,13 +56,13 @@ Our pilot implementations have shown promising results in reducing processing ti
 
 **Transparent Operations** - We maintain open communication about our technology capabilities and limitations, providing clear documentation of system functions and decision-making processes.
 
-## Current Focus Areas
+### Current Focus Areas
 
 We are working with select agencies to develop and refine AI-assisted tools for contract processing. Our current efforts concentrate on routine document analysis, compliance verification, and workflow optimization for standard procurement actions.
 
 As we demonstrate value in these foundational areas, we plan to expand capabilities based on agency feedback and identified needs in related procurement functions.
 
-## Working With Us
+### Working With Us
 
 We welcome opportunities to discuss how AI-assisted tools might support your agency's procurement operations. Our approach begins with understanding your current processes and identifying specific areas where technology assistance could provide value.
 
