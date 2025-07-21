@@ -67,9 +67,8 @@ As we demonstrate value in these foundational areas, we plan to expand capabilit
 We welcome opportunities to discuss how AI-assisted tools might support your agency's procurement operations. Our approach begins with understanding your current processes and identifying specific areas where technology assistance could provide value.
 
 **Contact Information:**  
-**Email:** partnerships@[company].com  
-**Phone:** [phone number]  
-**Website:** [website]
+**Email:** mail@forcedynamics.ai  
+**Website:** www.forcedynamics.ai
 
 ---
 
