@@ -6,9 +6,7 @@
 
 ## Our Mission
 
-We are a technology company focused on developing AI-powered tools that assist government agencies in streamlining contract processing and procurement operations. Our goal is to support existing expertise within federal agencies while reducing administrative burden and improving cost-effectiveness for American taxpayers.
-
-We work alongside procurement professionals to identify opportunities where automation can complement human decision-making, particularly in routine document processing and compliance verification tasks.
+We are a full-stack AI company focused on streamlining operations for government agencies. Our goal is to support existing expertise within federal agencies while reducing administrative burden and improving cost-effectiveness for American taxpayers.
 
 ## Understanding the Challenge
 
